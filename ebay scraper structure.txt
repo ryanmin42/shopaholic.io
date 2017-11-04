@@ -1,0 +1,7 @@
+product: li
+|_ name: .vip
+|_ price: .prc .bold
+|_ availability: .lvformat span
+|_ shipping: .lvshipping
+|_ location: .timeleft + li
+|_ image: .img
